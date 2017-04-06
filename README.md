@@ -1,0 +1,2 @@
+# .NETCore
+Learning .netCore
